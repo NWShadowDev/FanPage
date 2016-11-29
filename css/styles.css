@@ -60,7 +60,7 @@ body {
   float: left;
   background-color: rgb(153,7,14);
   width: 50%;
-  padding: 15px;
+  padding: 30px;
   color: black;
 }
 
@@ -71,6 +71,12 @@ body {
   width: 50%;
   color: rgb(153,7,14);
   padding: 15px;
+}
+
+#cloak {
+  float: right;
+  width: 50%;
+  display: inline-block;
 }
 
 #middle img {
